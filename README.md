@@ -39,10 +39,10 @@ pip install -r requirements.txt
 3. Split the dataset into training and testing sets.
 
 ### Model Training
-The model is defined in `model.py`. You can train the model using the following command:
+The model is defined in `3.ipynb`. You can train the model using the following command:
 
 ```bash
-python model.py
+python 3.ipynb
 ```
 
 ### Evaluation
