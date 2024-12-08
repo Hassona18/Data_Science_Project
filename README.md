@@ -28,7 +28,7 @@ Make sure you have the following installed:
 Clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/yourusername/Predictive-Maintenance-Model.git
+git clone https://github.com/Hassona18/Predictive-Maintenance-Model.git
 cd Predictive-Maintenance-Model
 pip install -r requirements.txt
 ```
